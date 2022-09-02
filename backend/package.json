@@ -1,0 +1,25 @@
+{
+  "name": "shopso",
+  "version": "1.0.0",
+  "description": "a new wayu to shopping",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "mongoDB",
+    "express"
+  ],
+  "author": "Advik",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19"
+  }
+}
